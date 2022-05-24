@@ -1,0 +1,61 @@
+.bgColor {
+    width: 440px;
+    height: 100px;
+    background-color: #c8f5ff;
+    color: #000;
+    padding: 2px;
+}
+.bgColor label {
+    font-weight: bold;
+    color: #a0a0a0;
+}
+#targetLayer {
+    float: left;
+    width: 100px;
+    height: 100px;
+    text-align: center;
+    font-weight: bold;
+    color: #c0c0c0;
+    background-color: #f0e8e0;
+    position: relative;
+}
+#uploadFormLayer {
+    float: right;
+    padding: 10px;
+}
+.btnSubmit {
+    background-color: #3fa849;
+    padding: 4px;
+    border: #3fa849 1px solid;
+    color: #ffffff;
+}
+.inputFile {
+    padding: 3px;
+    background-color: #ffffff;
+}
+
+.image-container {
+    display: inline-block;
+    position: relative;
+}
+.image-delete {
+    position: absolute;
+    right: 30px;
+    top: 30px;
+    border: black 4px solid;
+    border-radius: 50%;
+    padding: 7px 10px;
+    display: none;
+    cursor: pointer;
+    opacity: 0.6;
+    color: #fff;
+}
+.no-image {
+    display: inline-block;
+    position: absolute;
+    right: 18px;
+    top: 40px;
+}
+.image-container:hover .image-delete {
+    display: inline-block;
+}
