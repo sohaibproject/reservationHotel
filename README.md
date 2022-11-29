@@ -1,4 +1,5 @@
 ## About Project
+<img src="./puplic/assets/images/6085f29abbe3a5.50344614.jpg"/>
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
 
 <p align="center">
